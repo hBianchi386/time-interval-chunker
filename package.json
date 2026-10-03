@@ -1,0 +1,17 @@
+{
+  "name": "time-interval-chunker",
+  "version": "0.1.0",
+  "description": "Splits a time range into fixed-size chunks and applies a function to each chunk boundary, useful for batch processing with time bounds.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {}
+}
