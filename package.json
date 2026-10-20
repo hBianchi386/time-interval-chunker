@@ -1,6 +1,6 @@
 {
   "name": "time-interval-chunker",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Splits a time range into fixed-size chunks and applies a function to each chunk boundary, useful for batch processing with time bounds.",
   "type": "module",
   "main": "src/index.js",
